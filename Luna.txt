@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Benvenuti da Sogni</title>
+</head>
+<body>
+
+<tag amore1="10 " attributo2="valore2">
+
+<input type="email" name="email" placeholder="Lunanotte2000@gmail.com">
+<a href="#" onclick="alert('ciao');">clicca qui</a>
+<ul id="elenco">
+<li data-indirizzo="Ascoli Piceno" data-telefono="3519208163">Sogni</li>
+<li data-indirizzo="Via le mani dal naso" data-telefono="3164192342"> grazie </li>
+<li data-indirizzo="Folignano" data-telefono="388761817"> sono in chill</li>
+</ul>
+<h1>Sogni</h1>
+<h2>Vorrebbe</h2>
+<h3>Fare</h3>
+<h3>Un sito</h3>
+<h2>Perchè</h2>
+<h3>Siamo in due centomila</h3>
+<h3>amore mio </h3>
+ <strong> ciao va </strong>...
+clicca questo link
+<a href="https://x.com/sogni101100?t=jAvlrGXKtjzsWRvT75hH7Q&s=09">Sogni101100</a>.
+<<img src="https://Mememe.jpg" </img> alt="Mia Immagine">
+
+
+
+
+</body>
+</html>
